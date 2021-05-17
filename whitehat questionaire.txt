@@ -1,0 +1,15 @@
+1. JAVA SCRIPT
+2.HTML
+3.1=DIV Tags are used to grup certain components and give them properties all together.
+  2=They are also used to make styling the components easier.
+4=Relative positioning is used to place a component relative to another components's position.
+Absolute Positioning is used to position a commponent relative to the entire display output.
+5=Opacity in CSS is used to hide or show any component, all the time, or when the mouse cursor is above the respective component.
+6=CSS
+7=Expo.io
+8-Navigate to iOS/Android on the preview tab.
+  Scan the QR code, or download the app and login.
+  Click on the Snack you want to preview.
+9=The Render function previews the certain lines of code on the preview tab.
+10=The return function is used, to end a line of code. To preview another line of code, using the render function again is necesarry.
+11= A button with text on it, a text component below the button, the View component.
